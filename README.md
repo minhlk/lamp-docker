@@ -18,3 +18,4 @@ docker compose exec db mysql -uroot -p123456
 docker compose exec app php artisan tinker
 ```
 
+[Tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose)
